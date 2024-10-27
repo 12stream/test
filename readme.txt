@@ -3,4 +3,4 @@ Git is free software.
 测试第三次+1+2
 Git has a mutable index called stage.
 Git tracks changes.、
-我是新分支做的修改
+我是新分支做的2修改
